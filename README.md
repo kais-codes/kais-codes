@@ -8,6 +8,15 @@ My current short term goals are to build out my portfolio website and practicing
 
 # Technologies I am interested in and using
 <img src="JavaScript.svg"> <img src="TypeScript.svg"> <img src="React.svg"> <img src="MariaDB.svg"> <img src="NodeJS.svg"> <img src="Python.svg">
+
+# Connect with me!
+You can reach me at:
+  Email: kyrne.li@outlook.com
+  LinkedIn: https://www.linkedin.com/in/kyrneli
+
+Hope you follow along with me on my journey in reaching my goals!
+
+
 <!--
 **kais-codes/kais-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
