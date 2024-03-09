@@ -10,7 +10,7 @@ My current short term goals are to build out my portfolio website and practicing
 <img src="JavaScript.svg"> <img src="TypeScript.svg"> <img src="React.svg"> <img src="MariaDB.svg"> <img src="NodeJS.svg"> <img src="Python.svg">
 
 # Connect with me!
-You can reach me at:
+You can reach me at: <br>
   Email: kyrne.li@outlook.com <br>
   LinkedIn: https://www.linkedin.com/in/kyrneli
 
