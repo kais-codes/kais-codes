@@ -11,7 +11,7 @@ My current short term goals are to build out my portfolio website and practicing
 
 # Connect with me!
 You can reach me at:
-  Email: kyrne.li@outlook.com
+  Email: kyrne.li@outlook.com <br>
   LinkedIn: https://www.linkedin.com/in/kyrneli
 
 Hope you follow along with me on my journey in reaching my goals!
