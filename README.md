@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi nice to meet ya! 👋
 
+# About Me
+Hi my name is Kai and I am currently a student studying Computer Science set to graduate March 2024. This has been an exciting journey so far learning all sorts of different technologies and tools! 
+
+# Current + Future Goals
+My current short term goals are to build out my portfolio website and practicing leetcodes problems on the side. I am learning and building the website using React and Bootstrap. Currently, I am pursuing the goals of becoming either a Frontend or QA Engineer, two paths that I have been ineterested in. 
+
+# Technologies I am interested in and using
+<img src="JavaScript.svg"> <img src="TypeScript.svg"> <img src="React.svg"> <img src="MariaDB.svg"> <img src="NodeJS.svg"> <img src="Python.svg">
 <!--
 **kais-codes/kais-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
